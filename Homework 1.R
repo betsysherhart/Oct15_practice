@@ -49,5 +49,7 @@ plot(bonds_approved_with100$Amount, bonds_approved_with100$percentage_for-50,,ma
 #calculate descriptive statistic the correlation coefficient
 cor(bonds_approved_with100$percentage_for,bonds_approved_with100$Amount)
 
+bonds_approved_with100
+
 
 
